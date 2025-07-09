@@ -1,0 +1,22 @@
+
+# Colab/Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# VSCode
+.vscode/
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
